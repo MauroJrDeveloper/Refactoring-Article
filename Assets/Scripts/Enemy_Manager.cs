@@ -13,7 +13,6 @@ public class Enemy_Manager : MonoBehaviour
     public bool _Enemy_1_Actived;
     public bool _Enemy_2_Actived;
 
-    // Start is called before the first frame update
     void Start()
     {
 
