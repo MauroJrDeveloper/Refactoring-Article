@@ -20,7 +20,6 @@ public class Walk_Enemy : MonoBehaviour
     Vector2 _Left_Down_Diagonal;
 
 
-    // Start is called before the first frame update
     void Start()
     {
         _Right_Vector = new Vector2(_Speed_X, _Rdb.velocity.y);
