@@ -15,7 +15,6 @@ public class Enemy_2 : MonoBehaviour
     Health_System_Enemy _Health_System_Enemy_Script;
     Walk_Enemy _Walk_Enemy_Script;
 
-    // Start is called before the first frame update
     void Start()
     {
 
@@ -27,7 +26,6 @@ public class Enemy_2 : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
 
